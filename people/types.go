@@ -1,8 +1,9 @@
 package people
 
 import (
-	"pcgo"
 	"time"
+
+	"github.com/Budmin/pcgo"
 )
 
 type Address struct {

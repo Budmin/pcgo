@@ -1,8 +1,9 @@
 package giving
 
 import (
-	"pcgo"
 	"time"
+
+	"github.com/Budmin/pcgo"
 )
 
 type Batch struct {

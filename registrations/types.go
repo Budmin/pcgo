@@ -2,8 +2,9 @@ package registrations
 
 import (
 	"fmt"
-	"pcgo"
 	"time"
+
+	"github.com/Budmin/pcgo"
 )
 
 type Organization struct {

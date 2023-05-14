@@ -1,8 +1,9 @@
 package services
 
 import (
-	"pcgo"
 	"time"
+
+	"github.com/Budmin/pcgo"
 )
 
 type Arrangement struct {

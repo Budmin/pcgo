@@ -1,8 +1,9 @@
 package calendar
 
 import (
-	"pcgo"
 	"time"
+
+	"github.com/Budmin/pcgo"
 )
 
 type Attachment struct {

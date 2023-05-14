@@ -1,8 +1,9 @@
 package checkins
 
 import (
-	"pcgo"
 	"time"
+
+	"github.com/Budmin/pcgo"
 )
 
 // TODO:
